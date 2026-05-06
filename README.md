@@ -6,7 +6,7 @@ I am passionate about building systems at the intersection of **VLSI, Renewable 
 
 ### 🛠️ Technical Skills
 - **Hardware & Simulation:** LTspice, Verilog (Digital Design), Tinkercad, NanoHub
-- **Computing:** MATLAB, Simulink, Basic Python & C
+- **Computing:** MATLAB, Simulink, Basic Python & Java
 - **Core Knowledge:** Semiconductor Device Physics, Circuit Analysis, Renewable Energy Systems
 
 ### 🚀 Key Projects
