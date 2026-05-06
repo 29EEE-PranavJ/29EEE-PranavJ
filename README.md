@@ -21,7 +21,7 @@ I am passionate about building systems at the intersection of **VLSI, Renewable 
 - **Authoring:** Currently contributing to a book chapter on *Digital Twin in Renewable Technology*.
 
 ### 📫 Connect with Me
-- [LinkedIn](https://linkedin.com)
+- [LinkedIn] (https://www.linkedin.com/in/pranav-jaganathan-65738a36a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - [ORCID Research Profile](https://orcid.org)
 - Email: pranav.j2025@vitstudent.ac.in
 
