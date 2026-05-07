@@ -22,7 +22,7 @@ I am passionate about building systems at the intersection of **VLSI, Renewable 
 
 ### 📫 Connect with Me
 - [LinkedIn] (https://www.linkedin.com/in/pranav-jaganathan-65738a36a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- [ORCID Research Profile](https://orcid.org)
+- [ORCID Research Profile](https://orcid.org/0009-0009-4341-4928)
 - Email: pranav.j2025@vitstudent.ac.in
 
 ---
