@@ -10,6 +10,7 @@ I am passionate about building systems at the intersection of **VLSI, Renewable 
 - **Core Knowledge:** Semiconductor Device Physics, Circuit Analysis, Renewable Energy Systems
 
 ### 🚀 Key Projects
+- **Adaptive Energy Distribution for Futuristic Transport:** Adaptive Energy Management Controller for Hyperloop Systems.
 - **Smart Grid Stabilization:** Quantum-inspired Nonlinear Feedback System using DTC Dynamics.
 - **EV Safety:** Designed a Comparator-Based Battery Safety Protection Device (BSPD).
 - **Solar Maintenance:** CNN-based predictive framework for dust detection on solar panels.
