@@ -11,7 +11,7 @@ I am passionate about building systems at the intersection of **VLSI, Renewable 
 
 ### 🚀 Key Projects
 
--**SuperConductor Storage assisted by ML:** A Ensemble Regression model assisted Storage Mechanism for SMES for Future Energy Demands.
+- **SuperConductor Storage assisted by ML:** A Ensemble Regression model assisted Storage Mechanism for SMES for Future Energy Demands.
 - **Swarm Hardware for Intelligent Electronic Layered Defence:** A Reconfigurable Swarm-based Defence Architecture prototype for Adaptive Aerial Threat Detection.
 - **Adaptive Energy Distribution for Futuristic Transport:** Adaptive Energy Management Controller for Hyperloop Systems.
 - **Smart Grid Stabilization:** Quantum-inspired Nonlinear Feedback System using DTC Dynamics.
