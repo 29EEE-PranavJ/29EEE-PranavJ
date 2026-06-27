@@ -2,11 +2,11 @@
 
 **B.Tech Electrical & Electronics Engineering Student @ VIT Chennai (2025–2029)**
 
-I am passionate about building systems at the intersection of **VLSI, Renewable Energy, and Semiconductor Physics**. My goal is to contribute to research in next-generation electronic and photonic technologies.
+I am passionate about building systems at the intersection of **VLSI, Renewable Energy, and Semiconductor Physics**. My goal is to contribute to research in next-generation electronic and energy technologies.
 
 ### 🛠️ Technical Skills
 - **Hardware & Simulation:** LTspice, Verilog (Digital Design), Tinkercad, NanoHub
-- **Computing:** MATLAB, Simulink, Basic Python & Java
+- **Computing:** MATLAB, Simulink,Simscape,Control design, Basic Python & Java
 - **Core Knowledge:** Semiconductor Device Physics, Circuit Analysis, Renewable Energy Systems
 
 ### 🚀 Key Projects
