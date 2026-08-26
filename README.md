@@ -5,7 +5,7 @@
 I am passionate about building systems at the intersection of **VLSI, Renewable Energy, and Semiconductor Physics**. My goal is to contribute to research in next-generation electronic and energy technologies with **Low-power and Reconfigurable Architectures**.
 
 ### 🛠️ Technical Skills
-- **Hardware & Simulation:** LTspice, Verilog (Digital Design), Cadence Genus, Tinkercad, NanoHub
+- **Hardware & Simulation:** LTspice, Verilog (Digital Design), Cadence Genus, Tinkercad, NanoHub, ModelSim
 - **Computing:** MATLAB, Simulink,Reneseas Go Configure,Simscape,Control design, Basic Python & Java
 - **Core Knowledge:** Semiconductor Device Physics, Circuit Analysis, Renewable Energy Systems
 
