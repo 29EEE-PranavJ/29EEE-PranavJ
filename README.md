@@ -12,6 +12,7 @@ I am passionate about building systems at the intersection of **VLSI, Renewable 
 ### 🚀 Key Projects
 
 - **FPGA based Boost Converter:** A Boost Converter based on P&O MPPT logic assisted by Verilog implementation for controlling power.
+- **SAGE — Edge AI Biomedical System for Real-Time Physiological Risk Monitoring:** A secure, AI-powered personal health companion that delivers real-time, privacy-preserving health monitoring and early warning — entirely on-device, with no cloud dependency.
 - **SuperConductor Storage assisted by ML:** A Ensemble Regression model assisted Storage Mechanism for SMES for Future Energy Demands.
 - **Swarm Hardware for Intelligent Electronic Layered Defence:** A Reconfigurable Swarm-based Defence Architecture prototype for Adaptive Aerial Threat Detection.
 - **Adaptive Energy Distribution for Futuristic Transport:** Adaptive Energy Management Controller for Hyperloop Systems.
@@ -21,7 +22,7 @@ I am passionate about building systems at the intersection of **VLSI, Renewable 
 
 ### 🏆 Achievements
 - **Hackathon Winner:** 1st Prize in Electrical Stream Hackathon (Zuraa Formula Student, 2026).
-- **Resource Person:** Led a Webinar on Electronics for IEEE SSCS Student Chapter.
+- **Resource Person:** Led  Webinars on Electronics for IEEE SSCS Student Chapter.
 - **Authoring:** Currently contributing to a book chapter on *Digital Twin in Renewable Technology*.
 - **Abstract:** Abstract accepted for presentation on Digital Twin technologies for Smart Grids in IIT-M.
 
