@@ -2,7 +2,7 @@
 
 **B.Tech Electrical & Electronics Engineering Student @ VIT Chennai (2025–2029)**
 
-I am passionate about building systems at the intersection of **VLSI, Renewable Energy, and Semiconductor Physics**. My goal is to contribute to research in next-generation electronic and energy technologies with **Low-power and Reconfigurable Architectures**.
+I am passionate about building systems at the intersection of **ASIC VLSI, Low Power FPGAs, and Semiconductor Physics**. My goal is to contribute to research and development in next-generation electronic and energy technologies with **Low-power and Reconfigurable Architectures**.
 
 ### 🛠️ Technical Skills
 - **Hardware & Simulation:** LTspice, Verilog (Digital Design), Cadence Genus, Tinkercad, NanoHub, ModelSim
