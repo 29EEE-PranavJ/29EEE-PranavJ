@@ -24,7 +24,7 @@ I am passionate about building systems at the intersection of **ASIC VLSI, Low P
 - **Hackathon Winner:** 1st Prize in Electrical Stream Hackathon (Zuraa Formula Student, 2026).
 - **Innovation Challenge Winner:** 3rd Prize in Picuno Innovation Challenge 2026.
 - **Internal SIH Round:** Selected as top 101 teams among +800 applied teams.
--**Resource Person:** Led  workshop on IC Building in LTspice for IEEE SSCS Student Chapter.
+- **Resource Person:** Led  workshop on IC Building in LTspice for IEEE SSCS Student Chapter.
 - **Resource Person:** Led  Webinars on Electronics for IEEE SSCS Student Chapter.
 - **Authoring:** Currently contributing to a book chapter on *Digital Twin in Renewable Technology*.
 - **Abstract:** Abstract accepted for presentation on Digital Twin technologies for Smart Grids in IIT-M.
